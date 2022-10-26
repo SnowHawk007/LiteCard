@@ -1,7 +1,7 @@
 # LiteCard
 Peer 2 Peer Payment &amp; Reward System 
 LiteCard WhitePaper
-	       By Simon Hawk
+	       By SnowHawk007
 Introduction: The History of Fundraising & Blockchain
 A. Introduction to Digital Currency
 B. Introduction to Blockchain & Cryptocurrency
